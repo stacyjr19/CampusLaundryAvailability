@@ -1,6 +1,6 @@
 Campus Laundry Availability Application
 Course: COM-437 Android Programming | Student: Stacy Linder Jr.
-GitHub Classroom repository: [INSERT REPOSITORY URL]
+GitHub Classroom repository:(https://github.com/stacyjr19/CampusLaundryAvailability)
 Project Description
 An Android application that displays campus washer and dryer status and provides a Refresh control to request an updated display.
 Problem Addressed
